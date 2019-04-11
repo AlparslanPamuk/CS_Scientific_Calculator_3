@@ -4,6 +4,8 @@ The aim of this program is to use and learn mathematical libraries. "using Syste
 
 This program is doing all mathematical equations. Menu strip is used for entension.
 
+An Click event was created on 9 buttons; button25_click to reduce typing much more codes.
+
 By using "this.Width" code on the Form_Load part, this program's interface can be extended. The more you width the program, the more scientific it gets.
 
 Its better to code by hand except for editing on the form page for me.
