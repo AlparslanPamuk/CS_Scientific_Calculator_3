@@ -13,6 +13,7 @@ namespace CS_Scientific_Calculator_3
 {
     public partial class Form1 : Form
     {
+        //tetst deneme
         double result;
         string aritmeticOperator;
         double firstNumber;
